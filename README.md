@@ -1,6 +1,6 @@
 # A Flask App demonstrating Register/Login functionality
 
-_Bcrypy library is used for password hashing besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power._
+_Bcrypt library is used for password hashing besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power._
 
 ## Home Page
 
